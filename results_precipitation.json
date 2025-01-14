@@ -1,38 +1,78 @@
 {
-    "01": {
-        "total_monthly_precipiation": 1693
+    "results_precipitation": {
+        "01": {
+            "total_monthly_precipiation": 1693
+        },
+        "02": {
+            "total_monthly_precipiation": 730
+        },
+        "03": {
+            "total_monthly_precipiation": 870
+        },
+        "04": {
+            "total_monthly_precipiation": 752
+        },
+        "05": {
+            "total_monthly_precipiation": 924
+        },
+        "06": {
+            "total_monthly_precipiation": 601
+        },
+        "07": {
+            "total_monthly_precipiation": 54
+        },
+        "08": {
+            "total_monthly_precipiation": 104
+        },
+        "09": {
+            "total_monthly_precipiation": 996
+        },
+        "10": {
+            "total_monthly_precipiation": 908
+        },
+        "11": {
+            "total_monthly_precipiation": 1192
+        },
+        "12": {
+            "total_monthly_precipiation": 2356
+        }
     },
-    "02": {
-        "total_monthly_precipiation": 730
-    },
-    "03": {
-        "total_monthly_precipiation": 870
-    },
-    "04": {
-        "total_monthly_precipiation": 752
-    },
-    "05": {
-        "total_monthly_precipiation": 924
-    },
-    "06": {
-        "total_monthly_precipiation": 601
-    },
-    "07": {
-        "total_monthly_precipiation": 54
-    },
-    "08": {
-        "total_monthly_precipiation": 104
-    },
-    "09": {
-        "total_monthly_precipiation": 996
-    },
-    "10": {
-        "total_monthly_precipiation": 908
-    },
-    "11": {
-        "total_monthly_precipiation": 1192
-    },
-    "12": {
-        "total_monthly_precipiation": 2356
+    "relative_precipitation_results": {
+        "01": {
+            "monthly_relative_precipitation": 0.15143112701252237
+        },
+        "02": {
+            "monthly_relative_precipitation": 0.06529516994633273
+        },
+        "03": {
+            "monthly_relative_precipitation": 0.0778175313059034
+        },
+        "04": {
+            "monthly_relative_precipitation": 0.06726296958855098
+        },
+        "05": {
+            "monthly_relative_precipitation": 0.08264758497316636
+        },
+        "06": {
+            "monthly_relative_precipitation": 0.053756708407871195
+        },
+        "07": {
+            "monthly_relative_precipitation": 0.00483005366726297
+        },
+        "08": {
+            "monthly_relative_precipitation": 0.009302325581395349
+        },
+        "09": {
+            "monthly_relative_precipitation": 0.089087656529517
+        },
+        "10": {
+            "monthly_relative_precipitation": 0.081216457960644
+        },
+        "11": {
+            "monthly_relative_precipitation": 0.10661896243291592
+        },
+        "12": {
+            "monthly_relative_precipitation": 0.2107334525939177
+        }
     }
 }
